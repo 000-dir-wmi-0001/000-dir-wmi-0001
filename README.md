@@ -2,7 +2,7 @@
 
 <!-- Animated Title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=435&lines=🖤+Momin+Mohasin+🤍;Full-Stack+Developer;Clean+Code+•+Minimalist+•+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=435&lines=🖤+Momin+Mohasin+🤍;Full-Stack+Developer;Clean+Code+•+Minimalist+•+Scalable+Systems" alt="Momin Mohasin" />
 </h1>
 
 <br/>
