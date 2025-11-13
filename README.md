@@ -1,139 +1,109 @@
-🖤 Hi, I'm Momin Mohasin 🤍
-Full-Stack Developer • Builder • Learner
-🖤 About Me 🤍
+<div align="center">
 
-🚀 Full-Stack Developer based in Pune, India
+<h1>🖤 Hi, I'm <strong>Momin Mohasin</strong> 🤍</h1>
+<h3>Full-Stack Developer • Builder • Learner</h3>
 
-💻 Strong in MERN, MEAN, Django, FastAPI, TypeORM, Prisma, SQL
+<br/>
 
-🏗 Built multiple real-world & production-ready applications
+<!-- About Me -->
+<h2>🖤 About Me 🤍</h2>
 
-⚡ Disciplined, consistent, and always leveling up
+<p>🚀 Full-Stack Developer based in <strong>Pune, India</strong></p>
+<p>💻 Strong in <strong>MERN, MEAN, Django, FastAPI, TypeORM, Prisma, SQL</strong></p>
+<p>🏗 Built multiple real-world & production-ready applications</p>
+<p>⚡ Disciplined, consistent, and always leveling up</p>
+<p>🤍 Focused on clean UI, clean architecture & clean code</p>
 
-🤍 Focused on clean UI, clean architecture & clean code
+<br/>
 
-🖤 Education 🤍
+<!-- Education -->
+<h2>🖤 Education 🤍</h2>
 
-🎓 Master of Computer Applications (MCA)
-📍 Suryadatta Institute of Business Management & Technology, Pune University
-📘 2020 Pattern – Management Division
+<p>🎓 <strong>Master of Computer Applications (MCA)</strong></p>
+<p>📍 Suryadatta Institute of Business Management & Technology, Pune University</p>
+<p>📘 2020 Pattern – Management Division</p>
 
-CGPA: 8.25
+<p><strong>CGPA:</strong> 8.25</p>
+<p><strong>Final Semester SGPA:</strong> 9.25</p>
+<p>✔ Completed all <strong>4 Semesters</strong> successfully</p>
 
-Final Semester SGPA: 9.25
+<br/>
 
-✔ Completed all 4 Semesters successfully
+<!-- Tech Stack -->
+<h2>🖤 Tech Stack & Tools 🤍</h2>
 
-🖤 Tech Stack & Tools 🤍
-Frontend
+<h3>Frontend</h3>
+<p>React • Next.js • Angular • Tailwind CSS • Bootstrap • JavaScript • TypeScript</p>
 
-React
+<h3>Backend</h3>
+<p>Node.js • Express.js • NestJS • Django • FastAPI • Django Ninja</p>
 
-Next.js
+<h3>Databases</h3>
+<p>PostgreSQL • MySQL • MongoDB • SQLite</p>
 
-Angular
+<h3>DevOps / Cloud</h3>
+<p>Linux • Docker (learning) • Git • CI/CD Workflows • DigitalOcean • Vercel • Render</p>
 
-Tailwind CSS
+<h3>Integrations</h3>
+<p>Razorpay • Cashfree • Stripe • Zoom SDK • SendGrid • Twilio Verify • Calendly</p>
 
-Bootstrap
+<br/>
 
-JavaScript / TypeScript
+<!-- Projects -->
+<h2>🖤 Highlighted Projects 🤍</h2>
 
-Backend
+<p>• <strong>Web OBS Alternative</strong> — WebRTC + FastAPI + React</p>
+<p>• <strong>Virtual Try-On App (AR)</strong> — React/Angular</p>
+<p>• <strong>Real-Time Chat App</strong> — FastAPI WebSockets</p>
+<p>• <strong>Online Compiler</strong></p>
+<p>• <strong>KarLo – Location-Based To-Do Reminder</strong></p>
+<p>• <strong>Advanced Django Task Management System</strong> (Team Collaboration)</p>
 
-Node.js
+<br/>
 
-Express.js
+<!-- Learning -->
+<h2>🖤 What I'm Learning Now 🤍</h2>
+<p>Docker → CI/CD → Kubernetes → AWS</p>
+<p>Advanced Backend Architecture</p>
+<p>Mastering Next.js Deeply</p>
+<p>Better Professional Communication</p>
 
-NestJS
+<br/>
 
-Django
+<!-- Certifications -->
+<h2>🖤 Certifications 🤍</h2>
+<p>Django Framework — Meta</p>
+<p>Python Programming — Google</p>
 
-FastAPI
+<br/>
 
-Django Ninja
+<!-- Contact -->
+<h2>🖤 Connect With Me 🤍</h2>
 
-Databases
+<p>📧 <strong>Email:</strong> momindy321@gmail.com</p>
+<p>💼 <strong>LinkedIn:</strong> add here</p>
+<p>🌐 <strong>Portfolio:</strong> add here</p>
 
-PostgreSQL
+<br/>
 
-MySQL
+<!-- Fun Facts -->
+<h2>🖤 Fun Facts 🤍</h2>
+<p>I love clean UI, clean architecture, and clean code</p>
+<p>Direct talker — no sugarcoating, only growth</p>
+<p>Always building & experimenting with new systems</p>
 
-MongoDB
+<br/><br/>
 
-SQLite
+<!-- GitHub Stats -->
+<h2>🖤 GitHub Stats 🤍</h2>
 
-DevOps / Cloud
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=000-dir-wmi-0001&theme=black-ice&hide_border=true"/>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=000-dir-wmi-0001&show_icons=true&hide_border=true&theme=dark"/>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000-dir-wmi-0001&layout=compact&hide_border=true&theme=dark"/>
 
-Linux
+</div>
 
-Docker (learning)
-
-Git
-
-CI/CD Workflows
-
-DigitalOcean • Vercel • Render
-
-Integrations
-
-Razorpay
-
-Cashfree
-
-Stripe
-
-Zoom SDK
-
-SendGrid
-
-Twilio Verify
-
-Calendly
-
-🖤 Highlighted Projects 🤍
-
-Web OBS Alternative — WebRTC + FastAPI + React
-
-Virtual Try-On App (AR) — React/Angular
-
-Real-Time Chat App — FastAPI WebSockets
-
-Online Compiler
-
-KarLo – Location-Based To-Do Reminder
-
-Advanced Django Task Management System (Team Collaboration)
-
-🖤 What I'm Learning Now 🤍
-
-Docker → CI/CD → Kubernetes → AWS
-
-Advanced Backend Architecture
-
-Mastering Next.js Deeply
-
-Better Professional Communication
-
-🖤 Certifications 🤍
-
-Django Framework — Meta
-
-Python Programming — Google
-
-🖤 Connect With Me 🤍
-
-📧 Email: momindy321@gmail.com
-
-💼 LinkedIn: add here
-🌐 Portfolio: add here
-
-🖤 Fun Facts 🤍
-
-I love clean UI, clean architecture, and clean code
-
-Direct talker — no sugarcoating, only growth
-
-Always building & experimenting with new systems
 🖤 GitHub Stats 🤍
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=000-dir-wmi-0001&theme=black-ice&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=000-dir-wmi-0001&show_icons=true&hide_border=true&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000-dir-wmi-0001&layout=compact&hide_border=true&theme=dark" /> </p>
