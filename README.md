@@ -1,17 +1,25 @@
 <div align="center">
 
-<h1>🖤 <strong>Momin Mohasin</strong> 🤍</h1>
-<h3 style="margin-top:-10px;">Full-Stack Developer</h3>
+<!-- Animated Title -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FFFFFF&center=true&vCenter=true&width=435&lines=🖤+Momin+Mohasin+🤍;Full-Stack+Developer;Clean+Code+•+Minimalist+•+Scalable+Systems" alt="Typing SVG" />
+</h1>
 
-<p>React • Next.js • Angular • Node.js • NestJS • Django • FastAPI</p>
-<p>Clean Code • Minimalist • Scalable Systems</p>
+<br/>
+
+<!-- Skills Row with Light Animation -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,django,fastapi" />
+</p>
+
+<p><strong>React • Next.js • Angular • Node.js • NestJS • Django • FastAPI</strong></p>
 
 <br/>
 
-<h2>🖤 Work Highlights 🤍</h2>
-<p>WebRTC OBS • AR Try-On • Real-Time Chat • Online Compiler</p>
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="60%">
 
-<br/>
+<br/><br/>
 
 <h2>🖤 GitHub Stats 🤍</h2>
 
