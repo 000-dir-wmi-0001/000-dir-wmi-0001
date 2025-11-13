@@ -2,29 +2,19 @@
 
 <h1>🖤 <strong>Momin Mohasin</strong> 🤍</h1>
 
-<!-- Typing Animation with Name Included -->
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=900&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%96%A4+Momin+Mohasin+%F0%9F%A4%8D;Full-Stack+Developer;Clean+Code+%E2%80%A2+Minimalist+%E2%80%A2+Scalable+Systems" alt="Typing Animation"/>
 </h3>
 
-<br/>
-
-<!-- Skills Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,django,fastapi" />
 </p>
 
-<!-- Short Skill Summary -->
 <p><strong>React • Next.js • Angular • Node.js • NestJS • Django • FastAPI</strong></p>
 
-<br/>
+<!-- Reliable divider -->
+<hr style="border:0;height:1px;background:#444;width:60%;margin:28px auto;">
 
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/line.svg" width="60%">
-
-<br/><br/>
-
-<!-- GitHub Stats -->
 <h2>🖤 GitHub Stats 🤍</h2>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=000-dir-wmi-0001&theme=black-ice&hide_border=true" />
