@@ -1,75 +1,119 @@
 🖤 Hi, I'm Momin Mohasin 🤍
 Full-Stack Developer • Builder • Learner
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=000-dir-wmi-0001&style=flat-square&color=000000" /> </p>
 🖤 About Me 🤍
 
-Full-Stack Developer based in Pune, India
+🚀 Full-Stack Developer based in Pune, India
 
-Strong in MERN, MEAN, Django, FastAPI, TypeORM, Prisma, SQL
+💻 Strong in MERN, MEAN, Django, FastAPI, TypeORM, Prisma, SQL
 
-Built multiple production-level applications end-to-end
+🏗 Built multiple real-world & production-ready applications
 
-Ambitious, disciplined, and constantly leveling up 🖤
+⚡ Disciplined, consistent, and always leveling up
+
+🤍 Focused on clean UI, clean architecture & clean code
 
 🖤 Education 🤍
 
 🎓 Master of Computer Applications (MCA)
-Suryadatta Institute of Business Management & Technology (Pune University)
-2020 Pattern – Management Division
+📍 Suryadatta Institute of Business Management & Technology, Pune University
+📘 2020 Pattern – Management Division
 
-📘 CGPA: 8.25
+CGPA: 8.25
 
-🏆 Final Semester SGPA: 9.25
+Final Semester SGPA: 9.25
 
-✔️ Completed all 4 Semesters successfully
+✔ Completed all 4 Semesters successfully
 
 🖤 Tech Stack & Tools 🤍
 Frontend
 
-React • Next.js • Angular • Tailwind • Bootstrap • JavaScript • TypeScript
+React
+
+Next.js
+
+Angular
+
+Tailwind CSS
+
+Bootstrap
+
+JavaScript / TypeScript
 
 Backend
 
-Node.js • Express.js • NestJS • Django • FastAPI • Django Ninja
+Node.js
+
+Express.js
+
+NestJS
+
+Django
+
+FastAPI
+
+Django Ninja
 
 Databases
 
-PostgreSQL • MySQL • MongoDB • SQLite
+PostgreSQL
+
+MySQL
+
+MongoDB
+
+SQLite
 
 DevOps / Cloud
 
-Linux • Docker (learning)
-Git • CI/CD workflows
+Linux
+
+Docker (learning)
+
+Git
+
+CI/CD Workflows
+
 DigitalOcean • Vercel • Render
 
-Integrations Experienced
+Integrations
 
-Razorpay • Cashfree • Stripe • Zoom SDK
-Calendly • SendGrid • Twilio Verify
+Razorpay
+
+Cashfree
+
+Stripe
+
+Zoom SDK
+
+SendGrid
+
+Twilio Verify
+
+Calendly
 
 🖤 Highlighted Projects 🤍
 
-Web OBS Alternative – WebRTC + FastAPI + React
+Web OBS Alternative — WebRTC + FastAPI + React
 
-Virtual Try-On App (AR) – React/Angular
+Virtual Try-On App (AR) — React/Angular
 
-Real-Time Chat App – FastAPI WebSockets
+Real-Time Chat App — FastAPI WebSockets
 
-Online Code Compiler
+Online Compiler
 
 KarLo – Location-Based To-Do Reminder
 
-Advanced Django Task Management System with team collaboration
+Advanced Django Task Management System (Team Collaboration)
 
 🖤 What I'm Learning Now 🤍
 
 Docker → CI/CD → Kubernetes → AWS
 
-Advanced backend architecture
+Advanced Backend Architecture
 
-Deep mastering of Next.js
+Mastering Next.js Deeply
 
-Improving professional communication
+Better Professional Communication
 
 🖤 Certifications 🤍
 
@@ -81,16 +125,15 @@ Python Programming — Google
 
 📧 Email: momindy321@gmail.com
 
-💼 LinkedIn: add your link
-🌐 Portfolio: add your link
+💼 LinkedIn: add here
+🌐 Portfolio: add here
 
 🖤 Fun Facts 🤍
 
-I love clean UI, clean architecture, and clean code.
+I love clean UI, clean architecture, and clean code
 
-Highly direct — no sugarcoating, just growth.
+Direct talker — no sugarcoating, only growth
 
-Always experimenting and building something new.
-
+Always building & experimenting with new systems
 🖤 GitHub Stats 🤍
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=000-dir-wmi-0001&theme=black-ice&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=000-dir-wmi-0001&show_icons=true&hide_border=true&theme=dark" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000-dir-wmi-0001&layout=compact&hide_border=true&theme=dark" /> </p>
