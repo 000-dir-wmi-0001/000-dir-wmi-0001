@@ -12,7 +12,6 @@
 
 <p><strong>React • Next.js • Angular • Node.js • NestJS • Django • FastAPI</strong></p>
 
-<!-- Reliable divider -->
 <hr style="border:0;height:1px;background:#444;width:60%;margin:28px auto;">
 
 <h2>🖤 GitHub Stats 🤍</h2>
