@@ -13,7 +13,7 @@
     <a href="https://www.momin-mohasin.me">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:contact@momin-mohasin.me">
+    <a href="mailto:momindy321@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
